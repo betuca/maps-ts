@@ -1,1 +1,2 @@
-console.log('teste');
+import { User } from './User'
+
